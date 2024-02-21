@@ -18,9 +18,9 @@ Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Entusiast who loves to delve 
 
 Here are a few projects I'm proud of:
 
-1. **Blog website(Link to Project):** Brief description of the project.
-2. **Registration form(Link to Project):** Brief description of the project.
-3. **currency converter(Link to Project):** Brief description of the project.
+1. **Blog website([Link to Project](https://github.com/Aneesh35/Registration-form-and-Blog-website.git)):** Brief description of the project.
+2. **Registration form([Link to Project](https://github.com/Aneesh35/Registration-form-and-Blog-website.git)):** Brief description of the project.
+3. **currency converter([Link to Project](https://github.com/Aneesh35/currency-converter.git)):** Brief description of the project.
 
 Feel free to explore them and provide your feedback!
 
