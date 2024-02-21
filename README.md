@@ -28,7 +28,7 @@ Feel free to explore them and provide your feedback!
 ## Get in Touch 📫
 
 - 👨‍💻 Explore my projects on [GitHub](https://github.com/Aneesh35).
-- 📧 Reach out to me on [LinkedIn](https://www.linkedin.com/in/aneesh-r-rao-5737971a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+- 📧 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rao-aneesh243).
 - 🐤 Connect with me on [Twitter](https://x.com/Rao_Aneesh243?t=YniPfd0uCpLru-P76ePS2g&s=09).
 
 
