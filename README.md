@@ -1,11 +1,11 @@
 ## About Me ℹ️
 
-Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Entusiast who loves to delve into [Web Development]. My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
+Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Entusiast who loves to delve into Web Development. My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
 
 ## What I Do 💻
 
-- 💡 Passionate about [Your Main Focus or Interest].
-- 🌱 Currently learning [Languages, Frameworks, or Technologies You're Exploring].
+- 💡 Passionate about Web Development.
+- 🌱 Currently learning MERN.
 - 🚀 Always on the lookout for exciting projects to collaborate on.
 
 ## Get in Touch 📫
@@ -26,9 +26,9 @@ Feel free to explore them and provide your feedback!
 
 ## My Skills 💼
 
-- Programming Languages: [List of Languages]
-- Frameworks & Technologies: [List of Frameworks & Technologies]
-- Tools & Libraries: [List of Tools & Libraries]
+- Programming Languages: C,Python,Java,Javascript.
+- Frameworks & Technologies:Express Js.
+- Tools & Libraries: React js.
 
 ## Let's Connect! 🌐
 
