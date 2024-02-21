@@ -18,17 +18,11 @@ Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Entusiast who loves to delve 
 
 Here are a few projects I'm proud of:
 
-1. **[Project Name](Link to Project):** Brief description of the project.
-2. **[Project Name](Link to Project):** Brief description of the project.
-3. **[Project Name](Link to Project):** Brief description of the project.
+1. **Blog website(Link to Project):** Brief description of the project.
+2. **Registration form(Link to Project):** Brief description of the project.
+3. **currency converter(Link to Project):** Brief description of the project.
 
 Feel free to explore them and provide your feedback!
-
-## Notable Achievements 🏆
-
-- [Your Achievement 1]
-- [Your Achievement 2]
-- [Your Achievement 3]
 
 ## My Skills 💼
 
