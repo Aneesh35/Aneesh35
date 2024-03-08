@@ -8,6 +8,11 @@ Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Entusiast who loves to delve 
 - 🌱 Currently learning MERN.
 - 🚀 Always on the lookout for exciting projects to collaborate on.
 
+## My Skills 💼
+
+- Programming Languages: C,Python,Java,Javascript.
+- Frameworks & Technologies:Express Js.
+- Tools & Libraries: React js.
 
 ## My Projects 🛠️
 
@@ -18,12 +23,6 @@ Here are a few projects I'm proud of:
 3. **currency converter ([🔗](https://github.com/Aneesh35/currency-converter.git)):** This Currency Converter is a web app built with HTML, CSS, and JavaScript. It fetches real-time exchange rates to convert currencies dynamically, featuring responsive design and intuitive user interaction.
 
 Feel free to explore them and provide your feedback!
-
-## My Skills 💼
-
-- Programming Languages: C,Python,Java,Javascript.
-- Frameworks & Technologies:Express Js.
-- Tools & Libraries: React js.
 
 ## Get in Touch 📫
 
