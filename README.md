@@ -24,13 +24,6 @@ Here are a few projects I'm proud of:
 
 Feel free to explore them and provide your feedback!
 
-## Get in Touch 📫
-
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/Aneesh35).
-- 📧 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rao-aneesh243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
-- 🐤 Connect with me on [Twitter](https://x.com/Rao_Aneesh243?t=YniPfd0uCpLru-P76ePS2g&s=09).
-
-
 ## Let's Connect! 🌐
 
 Thank you for stopping by my GitHub profile! Let's connect and build amazing things together.
