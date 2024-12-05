@@ -3,6 +3,10 @@
 Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Entusiast who loves to delve into Web Development. My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
 
 
+https://github.com/user-attachments/assets/e99c555d-8a61-429e-b57a-4536e4f6332d
+
+
+
 ## What I Do 💻
 
 - 💡 Passionate about Web Development.
