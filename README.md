@@ -2,8 +2,8 @@
 
 Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Entusiast who loves to delve into Web Development. My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
 
+![giphy](https://github.com/user-attachments/assets/efac732b-38ae-477d-931c-0dda54512bd5)
 
-https://github.com/user-attachments/assets/e99c555d-8a61-429e-b57a-4536e4f6332d
 
 
 
