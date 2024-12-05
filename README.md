@@ -2,7 +2,6 @@
 
 Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Entusiast who loves to delve into Web Development. My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
 
-![My Cool GIF](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
 
 ## What I Do 💻
 
