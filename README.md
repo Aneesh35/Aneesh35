@@ -1,28 +1,11 @@
 # About Me ℹ️
 <div align="center" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- GIF -->
   <img src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" alt="coding" width="200" />
-
-  <!-- Text Content -->
   <div style="text-align: left;">
     <h2>Hi there! 👋</h2>
     <p>
       I'm <b>Aneesh R Rao</b>, a passionate Tech Enthusiast who loves to delve into Web Development.
       My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
-    </p>
-    <h3>I'm looking to collaborate on:</h3>
-    <p>
-      Frontend or full-stack web development projects, as well as beginner-friendly machine learning projects that
-      involve real-world applications.
-    </p>
-    <h3>I'm looking for help with:</h3>
-    <p>
-      Understanding core concepts of machine learning and integrating AI/ML models into web applications seamlessly.
-    </p>
-    <h3>Ask me about:</h3>
-    <p>
-      Web development using React and Tailwind CSS, creating dynamic UIs, and beginner tips for starting with ML as
-      a web developer.
     </p>
   </div>
 </div>
