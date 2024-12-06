@@ -1,6 +1,8 @@
 # About Me ℹ️
 <div align="center" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div>
   <img src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" alt="coding" width="200" />
+  </div>
   <div style="text-align: left;">
     <h2>Hi there! 👋</h2>
     <p>
