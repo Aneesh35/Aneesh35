@@ -1,8 +1,8 @@
 # About Me ℹ️
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 
-  <div style="flex: 1 1 300px; padding: 10px;">
+  <div style="flex: 1 1 300px; padding: 10px; text-align: center;">
     <h2>Hi there! 👋</h2>
     <p>
       I'm <b>Aneesh R Rao</b>, a passionate Tech Enthusiast who loves to delve into Web Development.
@@ -10,11 +10,12 @@
     </p>
   </div>
 
-  <div style="flex: 1 1 300px; padding: 10px;">
+  <div style="flex: 1 1 300px; padding: 10px; text-align: center;">
     <img src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" alt="coding" style="max-width: 100%; height: auto;" />
   </div>
 
 </div>
+
 
 
 # 💻 Tech Stack:
