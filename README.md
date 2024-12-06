@@ -3,9 +3,8 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 300px; padding: 10px; text-align: center;">
-    <h2>Hi there! 👋</h2>
     <p>
-      I'm <b>Aneesh R Rao</b>, a passionate Tech Enthusiast who loves to delve into Web Development.
+      Hi there! 👋 I'm <b>Aneesh R Rao</b>, a passionate Tech Enthusiast who loves to delve into Web Development.
       My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
     </p>
   </div>
