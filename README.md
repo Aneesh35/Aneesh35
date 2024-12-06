@@ -1,6 +1,6 @@
 # About Me ℹ️
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 300px; padding: 10px; text-align: center;">
     <h2>Hi there! 👋</h2>
