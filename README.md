@@ -4,8 +4,6 @@ I'm looking to collaborate on:<br>
 Frontend or full-stack web development projects, as well as beginner-friendly machine learning projects that involve real-world applications.<br><br>
 I'm looking for help with:<br>
 Understanding core concepts of machine learning and integrating AI/ML models into web applications seamlessly.<br><br>
-I'm currently learning:
-<br>React.js advanced concepts like Context API and React Router, as well as the fundamentals of machine learning, including supervised and unsupervised learning.<br><br>
 Ask me about:
 <br>Web development using React and Tailwind CSS, creating dynamic UIs, and beginner tips for starting with ML as a web developer.
 <br><br>
