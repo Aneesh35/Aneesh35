@@ -1,18 +1,15 @@
 # About Me ℹ️
-<table>
-  <tr>
-    <td>
-      <h2>Hi there! 👋</h2>
-      <p>
-        I'm <b>Aneesh R Rao</b>, a passionate Tech Enthusiast who loves to delve into Web Development.
-        My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
-      </p>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" alt="coding" width="200" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <p>
+    <h2>Hi there! 👋</h2>
+    I'm <b>Aneesh R Rao</b>, a passionate Tech Enthusiast who loves to delve into Web Development.
+    My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
+  </p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" alt="coding" width="200" />
+  </p>
+</div>
+
 
 
 # 💻 Tech Stack:
