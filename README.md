@@ -1,5 +1,5 @@
 # About Me ℹ️
-Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Enthusiast who loves to delve into Web Development. My journey involves exploring new technologies, solving problems, and contributing to open-source projects.<br>
+Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Enthusiast who loves to delve into Web Development. My journey involves exploring new technologies, solving problems, and contributing to open-source projects.<br><br>
 I'm looking to collaborate on:<br>
 Frontend or full-stack web development projects, as well as beginner-friendly machine learning projects that involve real-world applications.<br><br>
 I'm looking for help with:<br>
