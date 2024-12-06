@@ -1,6 +1,7 @@
 # About Me ℹ️
 Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Enthusiast who loves to delve into Web Development. My journey involves exploring new technologies, solving problems, and contributing to open-source projects.<br><br>
-I'm looking to collaborate on:<br>
+I'm looking to collaborate on:<br>![coding](https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886)
+
 Frontend or full-stack web development projects, as well as beginner-friendly machine learning projects that involve real-world applications.<br><br>
 I'm looking for help with:<br>
 Understanding core concepts of machine learning and integrating AI/ML models into web applications seamlessly.<br><br>
