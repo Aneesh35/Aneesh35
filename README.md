@@ -1,13 +1,31 @@
 # About Me ℹ️
-Hi there! 👋 I'm Aneesh R Rao, a passionate Tech Enthusiast who loves to delve into Web Development. My journey involves exploring new technologies, solving problems, and contributing to open-source projects.<br><br>
-I'm looking to collaborate on:<br>![coding](https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886)
+<div align="center" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- GIF -->
+  <img src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" alt="coding" width="200" />
 
-Frontend or full-stack web development projects, as well as beginner-friendly machine learning projects that involve real-world applications.<br><br>
-I'm looking for help with:<br>
-Understanding core concepts of machine learning and integrating AI/ML models into web applications seamlessly.<br><br>
-Ask me about:
-<br>Web development using React and Tailwind CSS, creating dynamic UIs, and beginner tips for starting with ML as a web developer.
-<br><br>
+  <!-- Text Content -->
+  <div style="text-align: left;">
+    <h2>Hi there! 👋</h2>
+    <p>
+      I'm <b>Aneesh R Rao</b>, a passionate Tech Enthusiast who loves to delve into Web Development.
+      My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
+    </p>
+    <h3>I'm looking to collaborate on:</h3>
+    <p>
+      Frontend or full-stack web development projects, as well as beginner-friendly machine learning projects that
+      involve real-world applications.
+    </p>
+    <h3>I'm looking for help with:</h3>
+    <p>
+      Understanding core concepts of machine learning and integrating AI/ML models into web applications seamlessly.
+    </p>
+    <h3>Ask me about:</h3>
+    <p>
+      Web development using React and Tailwind CSS, creating dynamic UIs, and beginner tips for starting with ML as
+      a web developer.
+    </p>
+  </div>
+</div>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
