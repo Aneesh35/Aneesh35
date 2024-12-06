@@ -1,16 +1,10 @@
 # About Me ℹ️
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <div style="flex: 1; min-width: 300px; max-width: 60%; text-align: left;">
-    <h2>Hi there! 👋</h2>
-    <p>
-      I'm <b>Aneesh R Rao</b>, a passionate Tech Enthusiast who loves to delve into Web Development.
-      My journey involves exploring new technologies, solving problems, and contributing to open-source projects.
-    </p>
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 40%; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" alt="coding" width="200" />
-  </div>
-</div>
+
+<h1 align="center">I'm <b>Aneesh R Rao</b></h1>
+<h3 align="center">, a passionate Tech Enthusiast who loves to delve into Web Development.
+  My journey involves exploring new technologies, solving problems, and contributing to open-source projects.</h3>
+    <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" alt="coding" width="200" />
+
 
 
 
