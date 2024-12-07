@@ -36,6 +36,6 @@
 ## Get in Touch 📫
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aneesh.r.rao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rao-aneesh243) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rao_Aneesh243)
-<br>
+<br><br>
 📫 Mail me : **<aneeshrao16@gmail.com>** <br>
 Thank you for stopping by my GitHub profile! Let's connect and build amazing things together.
