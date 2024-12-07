@@ -4,14 +4,19 @@
   <tr>
     <td>
       <h2>Hi there! 👋</h2>
-      <p>
-       I'm <b>Aneesh R Rao</b>, a passionate Tech Enthusiast who loves to delve into Web Development.  
-       My journey involves exploring new technologies, solving problems, and contributing to open-source projects.  
-       I have also recently started exploring Machine Learning (ML), diving into the fascinating world of algorithms and data-driven models to solve real-world problems.
+      <p style="font-size: 1rem; line-height: 1.5; color: #333; font-family: Arial, sans-serif;">
+        I'm <b>Aneesh R Rao</b>, a passionate <span style="color: #007BFF;">Tech Enthusiast</span> who loves to delve into <span style="color: #28A745;">Web Development</span>.  
+        My journey involves exploring new technologies, solving problems, and contributing to open-source projects.  
+        I have also recently started exploring <span style="color: #FFC107;">Machine Learning (ML)</span>, diving into the fascinating world of algorithms and data-driven models to solve real-world problems.
       </p>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" alt="coding" width="200" />
+      <img 
+        src="https://github.com/user-attachments/assets/a489c853-ba50-4342-b3fb-137a75c5d886" 
+        alt="coding" 
+        width="200" 
+        style="border-radius: 15px; border: 2px solid #ccc;" 
+      />
     </td>
   </tr>
 </table>
