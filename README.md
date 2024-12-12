@@ -30,7 +30,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Aneesh35&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesh35&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneesh35&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneesh35&theme=github_dark&hide_border=false" alt="GitHub Streak" /> -->
 </div>
 
 ## Get in Touch 📫
